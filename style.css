@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+header{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.header-img{
+    text-align: end;
+}
+.img-section{
+    text-align: center;
+}
+.container2{
+    margin-top: 100px;
+}
+.container3{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.container4{
+    text-align: center;
+}
+.container5{
+    margin-top: 30px;
+    margin-left: 56px;
+}
